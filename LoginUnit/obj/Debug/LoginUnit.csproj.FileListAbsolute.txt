@@ -1,0 +1,39 @@
+E:\c#\数据库项目\ProjectManager\LoginUnit\bin\Debug\LoginUnit.dll
+E:\c#\数据库项目\ProjectManager\LoginUnit\bin\Debug\LoginUnit.pdb
+E:\c#\数据库项目\ProjectManager\LoginUnit\bin\Debug\ProjectManager.BLL.dll
+E:\c#\数据库项目\ProjectManager\LoginUnit\bin\Debug\ProjectManager.Model.dll
+E:\c#\数据库项目\ProjectManager\LoginUnit\bin\Debug\ProjectManager.DAL.dll
+E:\c#\数据库项目\ProjectManager\LoginUnit\bin\Debug\EntityFramework.dll
+E:\c#\数据库项目\ProjectManager\LoginUnit\bin\Debug\ProjectManager.BLL.pdb
+E:\c#\数据库项目\ProjectManager\LoginUnit\bin\Debug\ProjectManager.Model.pdb
+E:\c#\数据库项目\ProjectManager\LoginUnit\bin\Debug\ProjectManager.DAL.pdb
+E:\c#\数据库项目\ProjectManager\LoginUnit\bin\Debug\EntityFramework.xml
+E:\c#\数据库项目\ProjectManager\LoginUnit\bin\Debug\zh-Hans\EntityFramework.resources.dll
+E:\c#\数据库项目\ProjectManager\LoginUnit\obj\Debug\LoginUnit.csprojResolveAssemblyReference.cache
+E:\c#\数据库项目\ProjectManager\LoginUnit\obj\Debug\LoginUnit.dll
+E:\c#\数据库项目\ProjectManager\LoginUnit\obj\Debug\LoginUnit.pdb
+E:\c#\数据库项目\ProjectManager\LoginUnit\bin\Debug\LoginUnit.dll.config
+G:\vs code\ProjectManager\LoginUnit\bin\Debug\LoginUnit.dll.config
+G:\vs code\ProjectManager\LoginUnit\bin\Debug\LoginUnit.dll
+G:\vs code\ProjectManager\LoginUnit\bin\Debug\LoginUnit.pdb
+G:\vs code\ProjectManager\LoginUnit\bin\Debug\ProjectManager.BLL.dll
+G:\vs code\ProjectManager\LoginUnit\bin\Debug\ProjectManager.DAL.dll
+G:\vs code\ProjectManager\LoginUnit\bin\Debug\ProjectManager.Model.dll
+G:\vs code\ProjectManager\LoginUnit\bin\Debug\ProjectManager.BLL.pdb
+G:\vs code\ProjectManager\LoginUnit\bin\Debug\ProjectManager.DAL.pdb
+G:\vs code\ProjectManager\LoginUnit\bin\Debug\ProjectManager.Model.pdb
+G:\vs code\ProjectManager\LoginUnit\obj\Debug\LoginUnit.csprojResolveAssemblyReference.cache
+G:\vs code\ProjectManager\LoginUnit\obj\Debug\LoginUnit.dll
+G:\vs code\ProjectManager\LoginUnit\obj\Debug\LoginUnit.pdb
+C:\www\Project\Project\LoginUnit\bin\Debug\LoginUnit.dll.config
+C:\www\Project\Project\LoginUnit\bin\Debug\LoginUnit.dll
+C:\www\Project\Project\LoginUnit\bin\Debug\LoginUnit.pdb
+C:\www\Project\Project\LoginUnit\bin\Debug\ProjectManager.BLL.dll
+C:\www\Project\Project\LoginUnit\bin\Debug\ProjectManager.DAL.dll
+C:\www\Project\Project\LoginUnit\bin\Debug\ProjectManager.Model.dll
+C:\www\Project\Project\LoginUnit\bin\Debug\ProjectManager.BLL.pdb
+C:\www\Project\Project\LoginUnit\bin\Debug\ProjectManager.DAL.pdb
+C:\www\Project\Project\LoginUnit\bin\Debug\ProjectManager.Model.pdb
+C:\www\Project\Project\LoginUnit\obj\Debug\LoginUnit.csprojResolveAssemblyReference.cache
+C:\www\Project\Project\LoginUnit\obj\Debug\LoginUnit.dll
+C:\www\Project\Project\LoginUnit\obj\Debug\LoginUnit.pdb

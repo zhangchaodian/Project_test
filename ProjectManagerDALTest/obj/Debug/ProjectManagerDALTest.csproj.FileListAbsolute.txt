@@ -1,0 +1,9 @@
+C:\www\Project\Project\ProjectManagerDALTest\bin\Debug\ProjectManagerDALTest.dll
+C:\www\Project\Project\ProjectManagerDALTest\bin\Debug\ProjectManagerDALTest.pdb
+C:\www\Project\Project\ProjectManagerDALTest\bin\Debug\ProjectManager.DAL.dll
+C:\www\Project\Project\ProjectManagerDALTest\bin\Debug\ProjectManager.Model.dll
+C:\www\Project\Project\ProjectManagerDALTest\bin\Debug\ProjectManager.DAL.pdb
+C:\www\Project\Project\ProjectManagerDALTest\bin\Debug\ProjectManager.Model.pdb
+C:\www\Project\Project\ProjectManagerDALTest\obj\Debug\ProjectManagerDALTest.csprojResolveAssemblyReference.cache
+C:\www\Project\Project\ProjectManagerDALTest\obj\Debug\ProjectManagerDALTest.dll
+C:\www\Project\Project\ProjectManagerDALTest\obj\Debug\ProjectManagerDALTest.pdb

@@ -1,0 +1,11 @@
+C:\www\Project\Project\ProjectManagerBLLTest\bin\Debug\ProjectManagerBLLTest.dll
+C:\www\Project\Project\ProjectManagerBLLTest\bin\Debug\ProjectManagerBLLTest.pdb
+C:\www\Project\Project\ProjectManagerBLLTest\bin\Debug\ProjectManager.BLL.dll
+C:\www\Project\Project\ProjectManagerBLLTest\bin\Debug\ProjectManager.Model.dll
+C:\www\Project\Project\ProjectManagerBLLTest\bin\Debug\ProjectManager.DAL.dll
+C:\www\Project\Project\ProjectManagerBLLTest\bin\Debug\ProjectManager.BLL.pdb
+C:\www\Project\Project\ProjectManagerBLLTest\bin\Debug\ProjectManager.Model.pdb
+C:\www\Project\Project\ProjectManagerBLLTest\bin\Debug\ProjectManager.DAL.pdb
+C:\www\Project\Project\ProjectManagerBLLTest\obj\Debug\ProjectManagerBLLTest.csprojResolveAssemblyReference.cache
+C:\www\Project\Project\ProjectManagerBLLTest\obj\Debug\ProjectManagerBLLTest.dll
+C:\www\Project\Project\ProjectManagerBLLTest\obj\Debug\ProjectManagerBLLTest.pdb

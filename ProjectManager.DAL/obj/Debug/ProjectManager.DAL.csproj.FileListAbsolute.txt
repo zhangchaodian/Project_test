@@ -1,0 +1,33 @@
+G:\vs code\ProjectManager\ProjectManager.DAL\bin\Debug\ProjectManager.DAL.dll
+G:\vs code\ProjectManager\ProjectManager.DAL\bin\Debug\ProjectManager.DAL.pdb
+G:\vs code\ProjectManager\ProjectManager.DAL\obj\Debug\ProjectManager.DAL.dll
+G:\vs code\ProjectManager\ProjectManager.DAL\obj\Debug\ProjectManager.DAL.pdb
+E:\c#\数据库项目\ProjectManager\ProjectManager.DAL\bin\Debug\ProjectManager.DAL.dll.config
+E:\c#\数据库项目\ProjectManager\ProjectManager.DAL\bin\Debug\ProjectManager.DAL.dll
+E:\c#\数据库项目\ProjectManager\ProjectManager.DAL\bin\Debug\ProjectManager.DAL.pdb
+E:\c#\数据库项目\ProjectManager\ProjectManager.DAL\bin\Debug\EntityFramework.dll
+E:\c#\数据库项目\ProjectManager\ProjectManager.DAL\bin\Debug\EntityFramework.xml
+E:\c#\数据库项目\ProjectManager\ProjectManager.DAL\bin\Debug\zh-Hans\EntityFramework.resources.dll
+E:\c#\数据库项目\ProjectManager\ProjectManager.DAL\obj\Debug\ProjectManager.DAL.csprojResolveAssemblyReference.cache
+E:\c#\数据库项目\ProjectManager\ProjectManager.DAL\obj\Debug\ProjectManager.DAL.dll
+E:\c#\数据库项目\ProjectManager\ProjectManager.DAL\obj\Debug\ProjectManager.DAL.pdb
+E:\c#\数据库项目\ProjectManager\ProjectManager.DAL\bin\Debug\ProjectManager.Model.dll
+E:\c#\数据库项目\ProjectManager\ProjectManager.DAL\bin\Debug\ProjectManager.Model.pdb
+G:\vs code\ProjectManager\ProjectManager.DAL\bin\Debug\ProjectManager.DAL.dll.config
+G:\vs code\ProjectManager\ProjectManager.DAL\bin\Debug\EntityFramework.dll
+G:\vs code\ProjectManager\ProjectManager.DAL\bin\Debug\ProjectManager.Model.dll
+G:\vs code\ProjectManager\ProjectManager.DAL\bin\Debug\ProjectManager.Model.pdb
+G:\vs code\ProjectManager\ProjectManager.DAL\bin\Debug\EntityFramework.xml
+G:\vs code\ProjectManager\ProjectManager.DAL\bin\Debug\zh-Hans\EntityFramework.resources.dll
+G:\vs code\ProjectManager\ProjectManager.DAL\obj\Debug\ProjectManager.DAL.csprojResolveAssemblyReference.cache
+C:\www\Project\Project\ProjectManager.DAL\bin\Debug\ProjectManager.DAL.dll.config
+C:\www\Project\Project\ProjectManager.DAL\bin\Debug\ProjectManager.DAL.dll
+C:\www\Project\Project\ProjectManager.DAL\bin\Debug\ProjectManager.DAL.pdb
+C:\www\Project\Project\ProjectManager.DAL\bin\Debug\EntityFramework.dll
+C:\www\Project\Project\ProjectManager.DAL\bin\Debug\ProjectManager.Model.dll
+C:\www\Project\Project\ProjectManager.DAL\bin\Debug\ProjectManager.Model.pdb
+C:\www\Project\Project\ProjectManager.DAL\bin\Debug\EntityFramework.xml
+C:\www\Project\Project\ProjectManager.DAL\bin\Debug\zh-Hans\EntityFramework.resources.dll
+C:\www\Project\Project\ProjectManager.DAL\obj\Debug\ProjectManager.DAL.csprojResolveAssemblyReference.cache
+C:\www\Project\Project\ProjectManager.DAL\obj\Debug\ProjectManager.DAL.dll
+C:\www\Project\Project\ProjectManager.DAL\obj\Debug\ProjectManager.DAL.pdb

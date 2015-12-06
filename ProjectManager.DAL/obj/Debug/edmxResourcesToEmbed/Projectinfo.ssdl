@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="ProjectManagerDBModel.Store" Alias="Self" Provider="System.Data.SqlClient" ProviderManifestToken="2008" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityContainer Name="ProjectManagerDBModelStoreContainer">
+    <EntitySet Name="project" EntityType="ProjectManagerDBModel.Store.project" store:Type="Tables" Schema="dbo" />
+    <AssociationSet Name="FK_project_project" Association="ProjectManagerDBModel.Store.FK_project_project">
+      <End Role="project" EntitySet="project" />
+      <End Role="project1" EntitySet="project" />
+    </AssociationSet>
+  </EntityContainer>
+  <EntityType Name="project">
+    <Key>
+      <PropertyRef Name="p_id" />
+    </Key>
+    <Property Name="personInChargeId" Type="int" Nullable="false" />
+    <Property Name="p_name" Type="varchar" Nullable="false" MaxLength="50" />
+    <Property Name="state_id" Type="int" />
+    <Property Name="rank_id" Type="int" />
+    <Property Name="project_group" Type="varchar" Nullable="false" MaxLength="256" />
+    <Property Name="apprval_time" Type="date" Nullable="false" />
+    <Property Name="plan_closing_time" Type="date" />
+    <Property Name="finish_state" Type="numeric" Precision="8" />
+    <Property Name="project_file_address" Type="varchar" MaxLength="256" />
+    <Property Name="remark" Type="varchar" MaxLength="256" />
+    <Property Name="t_id" Type="int" />
+    <Property Name="User_ID" Type="int" />
+    <Property Name="p_id" Type="int" Nullable="false" />
+    <Property Name="comment_id" Type="int" />
+  </EntityType>
+  <Association Name="FK_project_project">
+    <End Role="project" Type="ProjectManagerDBModel.Store.project" Multiplicity="1" />
+    <End Role="project1" Type="ProjectManagerDBModel.Store.project" Multiplicity="0..1" />
+    <ReferentialConstraint>
+      <Principal Role="project">
+        <PropertyRef Name="p_id" />
+      </Principal>
+      <Dependent Role="project1">
+        <PropertyRef Name="p_id" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Function Name="getDefaultProject" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo" />
+</Schema>

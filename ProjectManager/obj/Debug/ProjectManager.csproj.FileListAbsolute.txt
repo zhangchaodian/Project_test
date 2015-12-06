@@ -1,0 +1,126 @@
+G:\vs code\ProjectManager\ProjectManager\bin\ProjectManager.dll
+G:\vs code\ProjectManager\ProjectManager\bin\ProjectManager.pdb
+G:\vs code\ProjectManager\ProjectManager\bin\Antlr3.Runtime.dll
+G:\vs code\ProjectManager\ProjectManager\bin\EntityFramework.dll
+G:\vs code\ProjectManager\ProjectManager\bin\Microsoft.Web.Infrastructure.dll
+G:\vs code\ProjectManager\ProjectManager\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+G:\vs code\ProjectManager\ProjectManager\bin\Newtonsoft.Json.dll
+G:\vs code\ProjectManager\ProjectManager\bin\System.Web.Mvc.dll
+G:\vs code\ProjectManager\ProjectManager\bin\System.Web.Optimization.dll
+G:\vs code\ProjectManager\ProjectManager\bin\System.Web.Providers.dll
+G:\vs code\ProjectManager\ProjectManager\bin\System.Web.Razor.dll
+G:\vs code\ProjectManager\ProjectManager\bin\System.Web.WebPages.Deployment.dll
+G:\vs code\ProjectManager\ProjectManager\bin\System.Web.WebPages.dll
+G:\vs code\ProjectManager\ProjectManager\bin\System.Web.WebPages.Razor.dll
+G:\vs code\ProjectManager\ProjectManager\bin\WebGrease.dll
+G:\vs code\ProjectManager\ProjectManager\bin\EntityFramework.xml
+G:\vs code\ProjectManager\ProjectManager\bin\Newtonsoft.Json.xml
+G:\vs code\ProjectManager\ProjectManager\bin\System.Web.Mvc.xml
+G:\vs code\ProjectManager\ProjectManager\bin\System.Web.Razor.xml
+G:\vs code\ProjectManager\ProjectManager\bin\System.Web.WebPages.xml
+G:\vs code\ProjectManager\ProjectManager\bin\System.Web.WebPages.Deployment.xml
+G:\vs code\ProjectManager\ProjectManager\bin\System.Web.WebPages.Razor.xml
+G:\vs code\ProjectManager\ProjectManager\bin\zh-Hans\EntityFramework.resources.dll
+G:\vs code\ProjectManager\ProjectManager\bin\zh-Hans\System.Web.Mvc.resources.dll
+G:\vs code\ProjectManager\ProjectManager\bin\zh-Hans\System.Web.Optimization.resources.dll
+G:\vs code\ProjectManager\ProjectManager\bin\zh-Hans\System.Web.Providers.resources.dll
+G:\vs code\ProjectManager\ProjectManager\bin\zh-Hans\System.Web.Razor.resources.dll
+G:\vs code\ProjectManager\ProjectManager\bin\zh-Hans\System.Web.WebPages.resources.dll
+G:\vs code\ProjectManager\ProjectManager\bin\zh-Hans\System.Web.WebPages.Deployment.resources.dll
+G:\vs code\ProjectManager\ProjectManager\bin\zh-Hans\System.Web.WebPages.Razor.resources.dll
+G:\vs code\ProjectManager\ProjectManager\obj\Debug\ProjectManager.csprojResolveAssemblyReference.cache
+G:\vs code\ProjectManager\ProjectManager\obj\Debug\ProjectManager.dll
+G:\vs code\ProjectManager\ProjectManager\obj\Debug\ProjectManager.pdb
+E:\c#\数据库项目\ProjectManager\ProjectManager\bin\ProjectManager.dll
+E:\c#\数据库项目\ProjectManager\ProjectManager\bin\ProjectManager.pdb
+E:\c#\数据库项目\ProjectManager\ProjectManager\bin\Antlr3.Runtime.dll
+E:\c#\数据库项目\ProjectManager\ProjectManager\bin\EntityFramework.dll
+E:\c#\数据库项目\ProjectManager\ProjectManager\bin\Microsoft.Web.Infrastructure.dll
+E:\c#\数据库项目\ProjectManager\ProjectManager\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+E:\c#\数据库项目\ProjectManager\ProjectManager\bin\Newtonsoft.Json.dll
+E:\c#\数据库项目\ProjectManager\ProjectManager\bin\ProjectManager.DAL.dll
+E:\c#\数据库项目\ProjectManager\ProjectManager\bin\System.Web.Mvc.dll
+E:\c#\数据库项目\ProjectManager\ProjectManager\bin\System.Web.Optimization.dll
+E:\c#\数据库项目\ProjectManager\ProjectManager\bin\System.Web.Providers.dll
+E:\c#\数据库项目\ProjectManager\ProjectManager\bin\System.Web.Razor.dll
+E:\c#\数据库项目\ProjectManager\ProjectManager\bin\System.Web.WebPages.Deployment.dll
+E:\c#\数据库项目\ProjectManager\ProjectManager\bin\System.Web.WebPages.dll
+E:\c#\数据库项目\ProjectManager\ProjectManager\bin\System.Web.WebPages.Razor.dll
+E:\c#\数据库项目\ProjectManager\ProjectManager\bin\WebGrease.dll
+E:\c#\数据库项目\ProjectManager\ProjectManager\bin\ProjectManager.DAL.pdb
+E:\c#\数据库项目\ProjectManager\ProjectManager\bin\EntityFramework.xml
+E:\c#\数据库项目\ProjectManager\ProjectManager\bin\Newtonsoft.Json.xml
+E:\c#\数据库项目\ProjectManager\ProjectManager\bin\System.Web.Mvc.xml
+E:\c#\数据库项目\ProjectManager\ProjectManager\bin\System.Web.Razor.xml
+E:\c#\数据库项目\ProjectManager\ProjectManager\bin\System.Web.WebPages.xml
+E:\c#\数据库项目\ProjectManager\ProjectManager\bin\System.Web.WebPages.Deployment.xml
+E:\c#\数据库项目\ProjectManager\ProjectManager\bin\System.Web.WebPages.Razor.xml
+E:\c#\数据库项目\ProjectManager\ProjectManager\bin\zh-Hans\EntityFramework.resources.dll
+E:\c#\数据库项目\ProjectManager\ProjectManager\bin\zh-Hans\System.Web.Mvc.resources.dll
+E:\c#\数据库项目\ProjectManager\ProjectManager\bin\zh-Hans\System.Web.Optimization.resources.dll
+E:\c#\数据库项目\ProjectManager\ProjectManager\bin\zh-Hans\System.Web.Providers.resources.dll
+E:\c#\数据库项目\ProjectManager\ProjectManager\bin\zh-Hans\System.Web.Razor.resources.dll
+E:\c#\数据库项目\ProjectManager\ProjectManager\bin\zh-Hans\System.Web.WebPages.resources.dll
+E:\c#\数据库项目\ProjectManager\ProjectManager\bin\zh-Hans\System.Web.WebPages.Deployment.resources.dll
+E:\c#\数据库项目\ProjectManager\ProjectManager\bin\zh-Hans\System.Web.WebPages.Razor.resources.dll
+E:\c#\数据库项目\ProjectManager\ProjectManager\obj\Debug\ProjectManager.csprojResolveAssemblyReference.cache
+E:\c#\数据库项目\ProjectManager\ProjectManager\obj\Debug\ProjectManager.dll
+E:\c#\数据库项目\ProjectManager\ProjectManager\obj\Debug\ProjectManager.pdb
+E:\c#\数据库项目\ProjectManager\ProjectManager\bin\ProjectManager.Model.dll
+E:\c#\数据库项目\ProjectManager\ProjectManager\bin\ProjectManager.Model.pdb
+E:\c#\数据库项目\ProjectManager\ProjectManager\bin\ProjectManager.BLL.dll
+E:\c#\数据库项目\ProjectManager\ProjectManager\bin\ProjectManager.BLL.pdb
+G:\vs code\ProjectManager\ProjectManager\bin\ProjectManager.BLL.dll
+G:\vs code\ProjectManager\ProjectManager\bin\ProjectManager.DAL.dll
+G:\vs code\ProjectManager\ProjectManager\bin\ProjectManager.Model.dll
+G:\vs code\ProjectManager\ProjectManager\bin\ProjectManager.BLL.pdb
+G:\vs code\ProjectManager\ProjectManager\bin\ProjectManager.DAL.pdb
+G:\vs code\ProjectManager\ProjectManager\bin\ProjectManager.Model.pdb
+C:\www\Project\Project\ProjectManager\bin\ProjectManager.dll
+C:\www\Project\Project\ProjectManager\bin\ProjectManager.pdb
+C:\www\Project\Project\ProjectManager\bin\Antlr3.Runtime.dll
+C:\www\Project\Project\ProjectManager\bin\EntityFramework.dll
+C:\www\Project\Project\ProjectManager\bin\Microsoft.Web.Infrastructure.dll
+C:\www\Project\Project\ProjectManager\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+C:\www\Project\Project\ProjectManager\bin\Newtonsoft.Json.dll
+C:\www\Project\Project\ProjectManager\bin\ProjectManager.BLL.dll
+C:\www\Project\Project\ProjectManager\bin\ProjectManager.DAL.dll
+C:\www\Project\Project\ProjectManager\bin\ProjectManager.Model.dll
+C:\www\Project\Project\ProjectManager\bin\System.Net.Http.Formatting.dll
+C:\www\Project\Project\ProjectManager\bin\System.Web.Http.dll
+C:\www\Project\Project\ProjectManager\bin\System.Web.Http.WebHost.dll
+C:\www\Project\Project\ProjectManager\bin\System.Web.Mvc.dll
+C:\www\Project\Project\ProjectManager\bin\System.Web.Optimization.dll
+C:\www\Project\Project\ProjectManager\bin\System.Web.Providers.dll
+C:\www\Project\Project\ProjectManager\bin\System.Web.Razor.dll
+C:\www\Project\Project\ProjectManager\bin\System.Web.WebPages.Deployment.dll
+C:\www\Project\Project\ProjectManager\bin\System.Web.WebPages.dll
+C:\www\Project\Project\ProjectManager\bin\System.Web.WebPages.Razor.dll
+C:\www\Project\Project\ProjectManager\bin\WebGrease.dll
+C:\www\Project\Project\ProjectManager\bin\ProjectManager.BLL.pdb
+C:\www\Project\Project\ProjectManager\bin\ProjectManager.DAL.pdb
+C:\www\Project\Project\ProjectManager\bin\ProjectManager.Model.pdb
+C:\www\Project\Project\ProjectManager\bin\EntityFramework.xml
+C:\www\Project\Project\ProjectManager\bin\Newtonsoft.Json.xml
+C:\www\Project\Project\ProjectManager\bin\System.Net.Http.Formatting.xml
+C:\www\Project\Project\ProjectManager\bin\System.Web.Http.xml
+C:\www\Project\Project\ProjectManager\bin\System.Web.Http.WebHost.xml
+C:\www\Project\Project\ProjectManager\bin\System.Web.Mvc.xml
+C:\www\Project\Project\ProjectManager\bin\System.Web.Razor.xml
+C:\www\Project\Project\ProjectManager\bin\System.Web.WebPages.xml
+C:\www\Project\Project\ProjectManager\bin\System.Web.WebPages.Deployment.xml
+C:\www\Project\Project\ProjectManager\bin\System.Web.WebPages.Razor.xml
+C:\www\Project\Project\ProjectManager\bin\zh-Hans\EntityFramework.resources.dll
+C:\www\Project\Project\ProjectManager\bin\zh-Hans\System.Net.Http.Formatting.resources.dll
+C:\www\Project\Project\ProjectManager\bin\zh-Hans\System.Web.Http.resources.dll
+C:\www\Project\Project\ProjectManager\bin\zh-Hans\System.Web.Http.WebHost.resources.dll
+C:\www\Project\Project\ProjectManager\bin\zh-Hans\System.Web.Mvc.resources.dll
+C:\www\Project\Project\ProjectManager\bin\zh-Hans\System.Web.Optimization.resources.dll
+C:\www\Project\Project\ProjectManager\bin\zh-Hans\System.Web.Providers.resources.dll
+C:\www\Project\Project\ProjectManager\bin\zh-Hans\System.Web.Razor.resources.dll
+C:\www\Project\Project\ProjectManager\bin\zh-Hans\System.Web.WebPages.resources.dll
+C:\www\Project\Project\ProjectManager\bin\zh-Hans\System.Web.WebPages.Deployment.resources.dll
+C:\www\Project\Project\ProjectManager\bin\zh-Hans\System.Web.WebPages.Razor.resources.dll
+C:\www\Project\Project\ProjectManager\obj\Debug\ProjectManager.csprojResolveAssemblyReference.cache
+C:\www\Project\Project\ProjectManager\obj\Debug\ProjectManager.dll
+C:\www\Project\Project\ProjectManager\obj\Debug\ProjectManager.pdb

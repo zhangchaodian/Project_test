@@ -1,0 +1,27 @@
+G:\vs code\ProjectManager\ProjectManager.Model\bin\Debug\ProjectManager.Model.dll
+G:\vs code\ProjectManager\ProjectManager.Model\bin\Debug\ProjectManager.Model.pdb
+G:\vs code\ProjectManager\ProjectManager.Model\obj\Debug\ProjectManager.Model.csprojResolveAssemblyReference.cache
+G:\vs code\ProjectManager\ProjectManager.Model\obj\Debug\ProjectManager.Model.dll
+G:\vs code\ProjectManager\ProjectManager.Model\obj\Debug\ProjectManager.Model.pdb
+E:\c#\数据库项目\ProjectManager\ProjectManager.Model\bin\Debug\ProjectManager.Model.dll.config
+E:\c#\数据库项目\ProjectManager\ProjectManager.Model\bin\Debug\ProjectManager.Model.dll
+E:\c#\数据库项目\ProjectManager\ProjectManager.Model\bin\Debug\ProjectManager.Model.pdb
+E:\c#\数据库项目\ProjectManager\ProjectManager.Model\bin\Debug\EntityFramework.dll
+E:\c#\数据库项目\ProjectManager\ProjectManager.Model\bin\Debug\EntityFramework.xml
+E:\c#\数据库项目\ProjectManager\ProjectManager.Model\bin\Debug\zh-Hans\EntityFramework.resources.dll
+E:\c#\数据库项目\ProjectManager\ProjectManager.Model\obj\Debug\ProjectManager.Model.csprojResolveAssemblyReference.cache
+E:\c#\数据库项目\ProjectManager\ProjectManager.Model\obj\Debug\ProjectManager.Model.dll
+E:\c#\数据库项目\ProjectManager\ProjectManager.Model\obj\Debug\ProjectManager.Model.pdb
+G:\vs code\ProjectManager\ProjectManager.Model\bin\Debug\ProjectManager.Model.dll.config
+G:\vs code\ProjectManager\ProjectManager.Model\bin\Debug\EntityFramework.dll
+G:\vs code\ProjectManager\ProjectManager.Model\bin\Debug\EntityFramework.xml
+G:\vs code\ProjectManager\ProjectManager.Model\bin\Debug\zh-Hans\EntityFramework.resources.dll
+C:\www\Project\Project\ProjectManager.Model\bin\Debug\ProjectManager.Model.dll.config
+C:\www\Project\Project\ProjectManager.Model\bin\Debug\ProjectManager.Model.dll
+C:\www\Project\Project\ProjectManager.Model\bin\Debug\ProjectManager.Model.pdb
+C:\www\Project\Project\ProjectManager.Model\bin\Debug\EntityFramework.dll
+C:\www\Project\Project\ProjectManager.Model\bin\Debug\EntityFramework.xml
+C:\www\Project\Project\ProjectManager.Model\bin\Debug\zh-Hans\EntityFramework.resources.dll
+C:\www\Project\Project\ProjectManager.Model\obj\Debug\ProjectManager.Model.dll
+C:\www\Project\Project\ProjectManager.Model\obj\Debug\ProjectManager.Model.pdb
+C:\www\Project\Project\ProjectManager.Model\obj\Debug\ProjectManager.Model.csprojResolveAssemblyReference.cache
